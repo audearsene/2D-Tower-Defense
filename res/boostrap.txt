@@ -1,0 +1,12 @@
+Pour remplir le bootstrap, votre code doit :
+✓ Complétez la boucle du jeu.
+✓ Définir les conditions de gain et de perte (« game over »).
+✓ Afficher les informations appropriées sur la console, afin de visualiser l'état du jeu à chaque tour.
+✓ Définissez au moins 3 types d'ennemis différents, chacun avec une stratégie d'attaque spécifique.
+✓ Définissez au moins 3 types d'objets, chacun ayant un effet spécifique.
+✓ Utiliser les principes et mécanismes de POO pour garantir la robustesse du code.
+✓ Avoir un main() pour créer et configurer une session de jeu.
+✓ Évitez la duplication et utilisez le polymorphisme.
+✓ Avoir une documentation pour chaque cours et méthodes importantes.
+✓ Ayez un README expliquant votre jeu.
+
